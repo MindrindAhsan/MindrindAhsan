@@ -13,16 +13,10 @@
   <p><strong>Web Technologies: </strong> HTML5, CSS3, Sass, Bootstrap</p>
   <p><strong>Version Control: </strong> Git, GitHub</p>
   <p><strong>Other Tools: </strong> Docker, Heroku, AWS, RESTful APIs</p>
-  
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=py,flask,react,mongodb,mysql,js" />
-    </a>
-  </p>
-</div>
 
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=wordpress,laravel,react,nodejs,mysql,js" />
+      <img src="https://skillicons.dev/icons?i=py,flask,react,mongodb,mysql,js" />
     </a>
   </p>
 
