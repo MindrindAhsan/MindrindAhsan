@@ -7,18 +7,24 @@
   <h2>Skills</h2>
   <p align="center">
   
-  <strong>Programming Languages:</strong> Python, JavaScript
-    <strong>Web Frameworks: </strong> Django, Flask, React
-    <strong>Database Systems: </strong> PostgreSQL, MySQL, MongoDB
-    <strong>Web Technologies: </strong> HTML5, CSS3, Sass, Bootstrap
-    <strong>Version Control: </strong> Git, GitHub
-    <strong>Other Tools: </strong> Docker, Heroku, AWS, RESTful APIs
+  <p><strong>Programming Languages:</strong> Python, JavaScript</p>
+  <p><strong>Web Frameworks: </strong> Django, Flask, React</p>
+  <p><strong>Database Systems: </strong> PostgreSQL, MySQL, MongoDB</p>
+  <p><strong>Web Technologies: </strong> HTML5, CSS3, Sass, Bootstrap</p>
+  <p><strong>Version Control: </strong> Git, GitHub</p>
+  <p><strong>Other Tools: </strong> Docker, Heroku, AWS, RESTful APIs</p>
   
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=py,flask,react,mongodb,mysql,js" />
     </a>
   </p>
 </div>
+
+<p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=wordpress,laravel,react,nodejs,mysql,js" />
+    </a>
+  </p>
 
 <!--
 **MindrindAhsan/MindrindAhsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
