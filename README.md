@@ -6,14 +6,14 @@
 
   <h2>Skills</h2>
   <p align="center">
-  <ul>
-    <li><strong>Programming Languages:</strong> Python, JavaScript</li>
-    <li><strong>Web Frameworks: </strong> Django, Flask, React</li>
-    <li><strong>Database Systems: </strong> PostgreSQL, MySQL, MongoDB</li>
-    <li><strong>Web Technologies: </strong> HTML5, CSS3, Sass, Bootstrap</li>
-    <li><strong>Version Control: </strong> Git, GitHub</li>
-    <li><strong>Other Tools: </strong> Docker, Heroku, AWS, RESTful APIs</li>
-  </ul>
+  
+  <p><strong>Programming Languages:</strong> Python, JavaScript</p>
+    <p><strong>Web Frameworks: </strong> Django, Flask, React</p>
+    <p><strong>Database Systems: </strong> PostgreSQL, MySQL, MongoDB</p>
+    <p><strong>Web Technologies: </strong> HTML5, CSS3, Sass, Bootstrap</p>
+    <p><strong>Version Control: </strong> Git, GitHub</p>
+    <p><strong>Other Tools: </strong> Docker, Heroku, AWS, RESTful APIs</p>
+  
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=py,flask,react,mongodb,mysql,js" />
     </a>
