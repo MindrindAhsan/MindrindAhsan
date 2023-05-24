@@ -1,9 +1,14 @@
 <div align="center">
-  <h2> Welcome To Mindrind 👋 </h2>
-  <p>As a digital marketing firm, we help brands scale revenue and profits by driving sales through every touch point. Our work is about innovation and operational excellence. We guide our clients from strategy through execution, to achieve rapid growth and profitability.</p>
+  <h2> Hello 👋 I am Ahsan Riaz, Full Stack Developer</h2>
+  <h4>About Me</h4>
+  <p>I'm an experienced full stack developer with a passion for building web applications and creating efficient solutions. With expertise in Django, Python, web scraping, Flask, and React, I enjoy working on projects that challenge me and allow me to explore new technologies.</p>
+  <p>Throughout my career, I have developed a strong understanding of software development principles and best practices. I strive to write clean, maintainable code that is scalable and efficient. I believe in the power of teamwork and collaboration, and I enjoy working in dynamic and diverse environments.</p>
 
-  <h2>Technologies We Work With</h2>
+  <h2>Skills</h2>
   <p align="center">
+  <ul>
+    <li><strong>Programming Languages:</strong> Python, JavaScript</li>
+  </ul>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=wordpress,laravel,react,nodejs,mysql,js" />
     </a>
